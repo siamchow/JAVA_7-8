@@ -1,4 +1,4 @@
-for data types
+-for data types
 byte, short, int , long, float, double , char, boolean
 
 Primitive Data types:
@@ -8,11 +8,17 @@ Primitive Data types:
 	long: 8 (23.23l)—needs to have a l in the end
 	float:4 (232.23f) –needs to have a f in the end
 	double: 8
-	boolean:
+	boolean: T or F
 	char: ‘s’
 	
 	Non-primitive:
 	String
+
+Access Modifier
+Private
+default
+protected
+Public
 
 
 flow control	
@@ -22,6 +28,11 @@ public, private, protected , static, final, abstract, synchronized, native, stri
 exception handling
 try, catch, finally, throw, throws, assert
 class related
-class, package, import, extends, implements, interface
+class
+class-representation of similar type object
+
+
+
+, package, import, extends, implements, interface
 object related keywords
 new, instanceof, super, this
