@@ -15,14 +15,22 @@ Primitive Data types:
 	String
 
 Access Modifier
-Private
-default
-protected
-Public
+Private - class
+default - class, package
+protected - class, package, subclass
+Public - class, package, subclass, world
 
 
 flow control	
-if , else, switch, case, default, for , do , while, break, continue, return
+if -  make a conditional
+else - conditional, activates when the rest of the if, else if conditions are not met.
+
+switch- The switch case in java executes one statement from multiple ones. Thus, it is like an if-else-if ladder statement. 
+ 
+default- The default keyword the default block of code in a switch statement. The default keyword specifies some code to run if there is no case match in the switch.
+for- create
+
+do , while, break, continue, return
 modifiers
 public, private, protected , static, final, abstract, synchronized, native, strictfp, transient, volatile
 exception handling
